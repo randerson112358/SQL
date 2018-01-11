@@ -10,7 +10,7 @@ CREATE TABLE `nba`.`cavs2` (
   PRIMARY KEY (`id`));
   
 --DONT FORGET TO IMPORT THE DATA
---Cavs1.csv
+--Cavs2.csv
 
 select * from nba.cavs2;
 SELECT player, school FROM nba.cavs2;
