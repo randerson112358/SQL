@@ -6,11 +6,7 @@ This repository contains queries
 <br>
 To see more programming checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA">Click Here</a>
 
-## Encryption Programs
+## Analyzing NBA
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-caesarCipher.c |  Caesar Cipher |  [Program](https://github.com/randerson112358/C-Programs/blob/master/caesar.c) | [Blog](https://medium.com/@randerson112358/programming-encryption-algorithms-520cb98c039d) | [Watch on YouTube](https://www.youtube.com/watch?v=DsYKagOoap0&t=26s)
-
-Program Name | Algorithm Name| Link to Program | Blog | YouTube
---- | --- | --- | --- | ---
-caesarCipher.c |  Caesar Cipher |  [Program](https://github.com/randerson112358/C-Programs/blob/master/caesar.c) | [Blog](https://medium.com/@randerson112358/sql-select-statements-using-nba-data-c8dd489479f3) | [Watch on YouTube](https://youtu.be/GOKesX-N3_A)
+NBA_CAVS.SQL |  Analyze Cavs Roster |  [Program](https://github.com/randerson112358/SQL/blob/master/NBA_CAVS.SQL) | [Blog](https://medium.com/@randerson112358/sql-select-statements-using-nba-data-c8dd489479f3) | [Watch on YouTube](https://youtu.be/GOKesX-N3_A)
