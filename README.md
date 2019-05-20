@@ -1,4 +1,4 @@
-# SQL
+# MySQL
 This repository contains queries
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Mysql-dolphin-square.svg" width="350"/>
